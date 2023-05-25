@@ -1,7 +1,7 @@
 ### Languages and Tools 🛠 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p aling="center";>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-</p>
+
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -24,7 +24,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="star">
 <a href="https://www.bluesteep.com/"><img src="https://img.shields.io/badge/-Bluesteep.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/posadas-matias/"><img src="https://img.shields.io/badge/-Matias%20Adrian%20Posadas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:connect.matias.posadas@gmail.com"><img src="https://img.shields.io/badge/-Correo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
