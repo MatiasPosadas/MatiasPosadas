@@ -14,11 +14,12 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
 ### 🐱My Github stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasPosadas)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasPosadas&layout=compact)](https://github.com/MatiasPosadas/github-readme-stats)
 
 
-### Programing gif:
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
