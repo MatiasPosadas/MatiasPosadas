@@ -25,11 +25,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.bluesteep.com/"><img src="https://img.shields.io/badge/-bluesteep.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.bluesteep.com/"><img src="https://img.shields.io/badge/-Bluesteep.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/posadas-matias/"><img src="https://img.shields.io/badge/-Matias%20Adrian%20Posadas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:connect.matias.posadas@gmail.com"><img src="https://img.shields.io/badge/-Correo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.instagram.com/bluesteep/"><img src="https://img.shields.io/badge/-@Bluesteep__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 </p>
