@@ -15,7 +15,11 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-
+### What am I doing:
+- 🔭 I am currently working on Wordpress, an online course project.
+- 🌱 I am currently learning React and English. Seeking fluency in both languages!
+- 🤝 I am looking to collaborate on projects that challenge myself, that boost my creativity and experience.
+- 📫 How to contact me: connect.matias.posadas@gmail.com
 ### 🐱My Github stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasPosadas)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -31,3 +35,5 @@
 <a href="https://www.instagram.com/bluesteep/"><img src="https://img.shields.io/badge/-@Bluesteep-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
+
+
