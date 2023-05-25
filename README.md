@@ -17,9 +17,4 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasPosadas=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MatiasPosadas/github-readme-stats)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasPosadas)](https://github.com/anuraghazra/github-readme-stats)
